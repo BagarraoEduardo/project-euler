@@ -1,0 +1,12 @@
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/bin/Debug/netcoreapp3.1/euler-one.deps.json
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/bin/Debug/netcoreapp3.1/euler-one.runtimeconfig.json
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/bin/Debug/netcoreapp3.1/euler-one.runtimeconfig.dev.json
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/bin/Debug/netcoreapp3.1/euler-one.dll
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/bin/Debug/netcoreapp3.1/euler-one.pdb
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/obj/Debug/netcoreapp3.1/euler-one.csprojAssemblyReference.cache
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/obj/Debug/netcoreapp3.1/euler-one.csproj.CoreCompileInputs.cache
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/obj/Debug/netcoreapp3.1/euler-one.AssemblyInfoInputs.cache
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/obj/Debug/netcoreapp3.1/euler-one.AssemblyInfo.cs
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/obj/Debug/netcoreapp3.1/euler-one.dll
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/obj/Debug/netcoreapp3.1/euler-one.pdb
+/Users/eduardo-bagarrao/Software/project-euler/euler-one/obj/Debug/netcoreapp3.1/euler-one.genruntimeconfig.cache
